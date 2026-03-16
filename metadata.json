@@ -1,0 +1,5 @@
+{
+  "name": "Aviator Demo: Crash Game",
+  "description": "A professional-grade educational demo of a crash-style multiplier game with real-time animations and exponential growth logic.",
+  "requestFramePermissions": ["microphone"]
+}
